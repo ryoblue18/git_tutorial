@@ -9,3 +9,6 @@ print("second revision")
 
 for i in range(10):
     print("changed")
+
+
+print("git commit revised")
