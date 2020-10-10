@@ -6,3 +6,6 @@ for i in range(5):
 print("EOF")
 
 print("second revision")
+
+for i in range(10):
+    print("changed")
